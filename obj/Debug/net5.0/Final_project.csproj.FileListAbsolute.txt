@@ -1,0 +1,381 @@
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Final_project.exe
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Final_project.deps.json
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Final_project.runtimeconfig.json
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Final_project.runtimeconfig.dev.json
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Final_project.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\ref\Final_project.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Final_project.pdb
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Autofac.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Npgsql.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\obj\Debug\net5.0\Final_project.Localization.resources
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\obj\Debug\net5.0\Final_project.csproj.GenerateResource.cache
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\obj\Debug\net5.0\Final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\obj\Debug\net5.0\Final_project.AssemblyInfoInputs.cache
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\obj\Debug\net5.0\Final_project.AssemblyInfo.cs
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\obj\Debug\net5.0\Final_project.csproj.CoreCompileInputs.cache
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\obj\Debug\net5.0\Final_project.csproj.CopyComplete
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\obj\Debug\net5.0\Final_project.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\obj\Debug\net5.0\ref\Final_project.dll
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\obj\Debug\net5.0\Final_project.pdb
+C:\Users\iv.haidzel\Downloads\Final_project (1)\Final_project\obj\Debug\net5.0\Final_project.genruntimeconfig.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Final_project.exe
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Final_project.deps.json
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Final_project.runtimeconfig.json
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Final_project.runtimeconfig.dev.json
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Final_project.pdb
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Autofac.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Humanizer.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Npgsql.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\obj\Debug\net5.0\Final_project.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\obj\Debug\net5.0\Final_project.Localization.resources
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\obj\Debug\net5.0\Final_project.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\obj\Debug\net5.0\Final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\obj\Debug\net5.0\Final_project.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\obj\Debug\net5.0\Final_project.AssemblyInfo.cs
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\obj\Debug\net5.0\Final_project.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\obj\Debug\net5.0\Final_project.csproj.CopyComplete
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\obj\Debug\net5.0\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\obj\Debug\net5.0\refint\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\obj\Debug\net5.0\Final_project.pdb
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\obj\Debug\net5.0\Final_project.genruntimeconfig.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\final_\obj\Debug\net5.0\ref\Final_project.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Final_project.exe
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Final_project.deps.json
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Final_project.runtimeconfig.json
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Final_project.runtimeconfig.dev.json
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Final_project.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\ref\Final_project.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Final_project.pdb
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Autofac.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Humanizer.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Npgsql.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\obj\Debug\net5.0\Final_project.csproj.AssemblyReference.cache
+C:\Users\iv.haidzel\Downloads\final_\final_\obj\Debug\net5.0\Final_project.Localization.resources
+C:\Users\iv.haidzel\Downloads\final_\final_\obj\Debug\net5.0\Final_project.csproj.GenerateResource.cache
+C:\Users\iv.haidzel\Downloads\final_\final_\obj\Debug\net5.0\Final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iv.haidzel\Downloads\final_\final_\obj\Debug\net5.0\Final_project.AssemblyInfoInputs.cache
+C:\Users\iv.haidzel\Downloads\final_\final_\obj\Debug\net5.0\Final_project.AssemblyInfo.cs
+C:\Users\iv.haidzel\Downloads\final_\final_\obj\Debug\net5.0\Final_project.csproj.CoreCompileInputs.cache
+C:\Users\iv.haidzel\Downloads\final_\final_\obj\Debug\net5.0\Final_project.csproj.CopyComplete
+C:\Users\iv.haidzel\Downloads\final_\final_\obj\Debug\net5.0\Final_project.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\obj\Debug\net5.0\ref\Final_project.dll
+C:\Users\iv.haidzel\Downloads\final_\final_\obj\Debug\net5.0\Final_project.pdb
+C:\Users\iv.haidzel\Downloads\final_\final_\obj\Debug\net5.0\Final_project.genruntimeconfig.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Final_project.exe
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Final_project.deps.json
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Final_project.runtimeconfig.json
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Final_project.runtimeconfig.dev.json
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Final_project.pdb
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Autofac.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Humanizer.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Npgsql.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\obj\Debug\net5.0\Final_project.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\obj\Debug\net5.0\Final_project.Localization.resources
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\obj\Debug\net5.0\Final_project.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\obj\Debug\net5.0\Final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\obj\Debug\net5.0\Final_project.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\obj\Debug\net5.0\Final_project.AssemblyInfo.cs
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\obj\Debug\net5.0\Final_project.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\obj\Debug\net5.0\Final_project.csproj.CopyComplete
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\obj\Debug\net5.0\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\obj\Debug\net5.0\refint\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\obj\Debug\net5.0\Final_project.pdb
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\obj\Debug\net5.0\Final_project.genruntimeconfig.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\obj\Debug\net5.0\ref\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\NLog.config
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\NLog.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\final_\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Final_project.exe
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Autofac.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Humanizer.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\NLog.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Npgsql.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\obj\Debug\net5.0\Final_project.Localization.resources
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\obj\Debug\net5.0\Final_project.csproj.GenerateResource.cache
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\obj\Debug\net5.0\Final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\obj\Debug\net5.0\Final_project.AssemblyInfoInputs.cache
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\obj\Debug\net5.0\Final_project.AssemblyInfo.cs
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\obj\Debug\net5.0\Final_project.csproj.CoreCompileInputs.cache
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\obj\Debug\net5.0\Final_project.csproj.CopyComplete
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\obj\Debug\net5.0\Final_project.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\obj\Debug\net5.0\ref\Final_project.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\obj\Debug\net5.0\Final_project.pdb
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Final_project.deps.json
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Final_project.runtimeconfig.json
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Final_project.runtimeconfig.dev.json
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Final_project.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\ref\Final_project.dll
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\bin\Debug\net5.0\Final_project.pdb
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\obj\Debug\net5.0\Final_project.genruntimeconfig.cache
+C:\Users\iv.haidzel\Downloads\final_ (1)\final_\obj\Debug\net5.0\Final_project.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Final_project.exe
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Final_project.deps.json
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Final_project.runtimeconfig.json
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Final_project.runtimeconfig.dev.json
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Final_project.pdb
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Autofac.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Humanizer.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\NLog.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Npgsql.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\obj\Debug\net5.0\Final_project.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\obj\Debug\net5.0\Final_project.Localization.resources
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\obj\Debug\net5.0\Final_project.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\obj\Debug\net5.0\Final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\obj\Debug\net5.0\Final_project.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\obj\Debug\net5.0\Final_project.AssemblyInfo.cs
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\obj\Debug\net5.0\Final_project.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\obj\Debug\net5.0\Final_project.csproj.CopyComplete
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\obj\Debug\net5.0\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\obj\Debug\net5.0\refint\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\obj\Debug\net5.0\Final_project.pdb
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\obj\Debug\net5.0\Final_project.genruntimeconfig.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\Final_project\final_\obj\Debug\net5.0\ref\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Final_project.exe
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Final_project.deps.json
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Final_project.runtimeconfig.json
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Final_project.runtimeconfig.dev.json
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Final_project.pdb
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Autofac.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Humanizer.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\NLog.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Npgsql.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\obj\Debug\net5.0\Final_project.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\obj\Debug\net5.0\Final_project.Localization.resources
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\obj\Debug\net5.0\Final_project.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\obj\Debug\net5.0\Final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\obj\Debug\net5.0\Final_project.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\obj\Debug\net5.0\Final_project.AssemblyInfo.cs
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\obj\Debug\net5.0\Final_project.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\obj\Debug\net5.0\Final_project.csproj.CopyComplete
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\obj\Debug\net5.0\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\obj\Debug\net5.0\refint\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\obj\Debug\net5.0\Final_project.pdb
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\obj\Debug\net5.0\Final_project.genruntimeconfig.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\CSharp.Homeworks\Final_project\final_\obj\Debug\net5.0\ref\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Final_project.exe
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Final_project.deps.json
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Final_project.runtimeconfig.json
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Final_project.runtimeconfig.dev.json
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Final_project.pdb
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Autofac.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\NLog.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Npgsql.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\obj\Debug\net5.0\Final_project.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\obj\Debug\net5.0\Final_project.Localization.resources
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\obj\Debug\net5.0\Final_project.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\obj\Debug\net5.0\Final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\obj\Debug\net5.0\Final_project.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\obj\Debug\net5.0\Final_project.AssemblyInfo.cs
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\obj\Debug\net5.0\Final_project.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\obj\Debug\net5.0\Final_project.csproj.CopyComplete
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\obj\Debug\net5.0\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\obj\Debug\net5.0\refint\Final_project.dll
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\obj\Debug\net5.0\Final_project.pdb
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\obj\Debug\net5.0\Final_project.genruntimeconfig.cache
+C:\Users\andre\source\repos\AndreiSpurhiash\ConsoleAplicationDeliverySushi\obj\Debug\net5.0\ref\Final_project.dll
